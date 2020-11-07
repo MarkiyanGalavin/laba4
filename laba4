@@ -1,0 +1,2 @@
+messange=str(input("Ведіть слово: "))
+print("Наоборот слово: ",messange[::-1])
